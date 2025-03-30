@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore Maven / Gradle build folders
+/target/
+*.jar
+*.war
+
+# Ignore IntelliJ, Eclipse, and VS Code settings
+/.idea/
+/.vscode/
+/.settings/
+/.classpath
+/.project
+
+# Ignore logs and temporary files
+/logs/
+/tmp/
+*.log
